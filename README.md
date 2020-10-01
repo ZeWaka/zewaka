@@ -10,7 +10,7 @@ I also enjoy /some/ things:
 - Creating art in Aseprite, Photoshop, & Illustrator
 - Cooking interesting foods from around the world from scratch
 
-## Contact me:
+### Contact me:
 - **Email:** zewakagamer@gmail.com
 - **Discord:** ZeWaka#3196/<@148179682523611136>
 - **Keybase:** [zewaka](https://keybase.io/zewaka)
