@@ -11,9 +11,9 @@ I also enjoy /some/ things:
 - Cooking interesting foods from around the world from scratch
 
 ## Contact me:
-**Email:** zewakagamer@gmail.com
-**Discord:** ZeWaka#3196/<@148179682523611136>
-**Keybase:** [zewaka](https://keybase.io/zewaka)
+- **Email:** zewakagamer@gmail.com
+- **Discord:** ZeWaka#3196/<@148179682523611136>
+- **Keybase:** [zewaka](https://keybase.io/zewaka)
 
 What I'm listening to:<br>
 <a href="https://now-playing-profile.zewaka.vercel.app/now-playing?open">
@@ -23,5 +23,3 @@ What I'm listening to:<br>
 <br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zewaka&show_icons=true&theme=onedark)
-
-[Keybase](https://gist.github.com/ZeWaka/827c4777d1e34f3fc825b2d7d95d0936)
