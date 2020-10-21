@@ -22,4 +22,5 @@ What I'm listening to:<br>
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zewaka&show_icons=true&theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=zewaka&show_icons=true&theme=onedark&layout=compact&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=zewaka&show_icons=true&theme=onedark&layout=compact&count_private=true)
