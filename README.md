@@ -19,5 +19,3 @@ What I'm listening to:<br>
 <a href="https://now-playing-profile.zewaka.vercel.app/now-playing?open">
     <img src="https://now-playing-profile.zewaka.vercel.app/now-playing" width="280" height="64" alt="Now Playing">
 </a>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zewaka&show_icons=true&theme=onedark&layout=compact&count_private=true)
