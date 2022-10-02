@@ -15,7 +15,7 @@ I also enjoy /some/ things:
 - **Discord:** ZeWaka#3196/<@148179682523611136>
 - **Keybase:** [zewaka](https://keybase.io/zewaka)
 
-What I'm listening to:<br>
+What I'm listening to (if I'm currently using Spotify, anyways):<br>
 <a href="https://now-playing-profile.zewaka.vercel.app/now-playing?open">
     <img src="https://now-playing-profile.zewaka.vercel.app/now-playing" width="280" height="64" alt="Now Playing">
 </a>
