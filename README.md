@@ -11,10 +11,10 @@ I also enjoy /some/ things:
 - Cooking interesting foods from around the world from scratch
 
 ### Contact me:
+- **Website:** [zewaka.webcam](https://zewaka.webcam)
 - **Email:** zewakagamer@gmail.com
 - **Discord:** ZeWaka#3196/<@148179682523611136>
-- **Keybase:** [zewaka](https://keybase.io/zewaka)
-- **Mastodon:** <a rel="me" href="https://mas.to/@ZeWaka">https://mas.to/@ZeWaka</a>
+- **Mastodon:** [mastodon.gamedev.place/@ZeWaka](https://mastodon.gamedev.place/@ZeWaka)
 
 What I'm listening to (if I'm currently using Spotify, anyways):<br>
 <a href="https://now-playing-profile.zewaka.vercel.app/now-playing?open">
