@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/ZeWaka/zewaka/master/beebob.gif"></img>
 I'm ZeWaka, one of the developers of [@Goonstation](https://github.com/goonstation/goonstation), working on [Space Station 13](https://spacestation13.com). 
 
-I'm very passionate about the open source community and helping people create things they're passionate about.
+I love how the open source community lets me help people create things they're passionate about.
 
 Things I Enjoy:
 - Cooking great food
