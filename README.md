@@ -8,7 +8,7 @@ I love how the open source community lets me help people create things they're p
 Things I Enjoy:
 - Cooking great food
 - Programming fun SS13 features in DM
-- Creating art in Aseprite, Photoshop, & Illustrator
+- Creating pixel / poster / video art
 - Keeping plants alive
 
 ### Contact me:
