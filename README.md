@@ -6,18 +6,16 @@ I'm ZeWaka, one of the developers of [@Goonstation](https://github.com/goonstati
 I love how the open source community lets me help people create things they're passionate about.
 
 Things I Enjoy:
-- Cooking great food
-- Programming fun SS13 features in DM
+- Cooking
+- Programming fun SS13 features & improving ease of development
 - Creating pixel / poster / video art
 - Keeping plants alive
 
-### Contact me:
-- **Website:** [zewaka.webcam](https://zewaka.webcam)
-- **Email:** zewakagamer@gmail.com
-- **Discord:** zewaka/<@148179682523611136>
-- **Mastodon:** [mastodon.gamedev.place/@ZeWaka](https://mastodon.gamedev.place/@ZeWaka)
+### [zewaka.webcam](https://zewaka.webcam)
 
-What I'm listening to (Works if I'm using Spotify):<br>
+- - -
+
+What I'm currently listening to (works if I'm using Spotify, so 60% of the time):<br>
 <a href="https://now-playing-profile.zewaka.vercel.app/now-playing?open">
     <img src="https://now-playing-profile.zewaka.vercel.app/now-playing" width="280" height="64" alt="Now Playing">
 </a>
