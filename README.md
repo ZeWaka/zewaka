@@ -16,6 +16,6 @@ Things I Enjoy:
 - - -
 
 What I'm currently listening to (works if I'm using Spotify, so 60% of the time):<br>
-<a href="https://now-playing-profile.zewaka.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile.zewaka.vercel.app/now-playing" width="280" height="64" alt="Now Playing">
+<a href="https://now-playing-profile-zewaka.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-zewaka.vercel.app/now-playing" width="280" height="64" alt="Now Playing">
 </a>
